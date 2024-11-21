@@ -8,3 +8,4 @@ average = total_sum / count  # Исключаем пропуск из суммы
 # Заменяем пропущенный элемент средним арифметическим
 numbers[missing_index] = average
 print("Измененный список:", numbers)
+
